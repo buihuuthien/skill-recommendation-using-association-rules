@@ -157,3 +157,9 @@ Then, run:
 - notebooks/Problem_1.ipynb
 
 - notebooks/Problem_2.ipynb
+
+Finally, see your output in:
+
+- result/problem_1
+
+- result/problem_2
